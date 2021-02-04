@@ -35,3 +35,7 @@ this
 
     no  no  no// comment
 this 
+
+```python
+someVar = 1
+```
